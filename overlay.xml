@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="unofficial">
+  <name>chrisperelstein</name>
+    <description>Chris Perelstein's personal overlay for experimentation and/or things I use that don't have ebuilds.</description>
+    <homepage>https://github.com/chrisperelstein/gentoo-overlay</homepage>
+    <owner>
+      <name>Chris Perelstein</name>
+      <email>chris.perelstein@gmail.com</email>
+    </owner>
+    <source type="git">https://github.com/chrisperelstein/gentoo-overlay.git</source>
+    <feed>https://github.com/chrisperelstein/gentoo-overlay/commits/master.atom</feed>
+  </repo>
+</repositories>
